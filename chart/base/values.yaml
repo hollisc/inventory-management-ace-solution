@@ -12,7 +12,7 @@ designerFlowsOperationMode: disabled
 
 license:
   accept: true
-  license: L-APEH-BTHFYQ
+  license: L-APEH-BPUCJK
   use: CloudPakForIntegrationNonProduction
 
 image:
@@ -36,7 +36,7 @@ service:
 
 useCommonServices: true
 
-version: 11.0.0.10-r3-eus
+version: 11.0.0.10-r2
 
 vcsInfo:
   repoUrl: ""
